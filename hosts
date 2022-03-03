@@ -1,6 +1,9 @@
 # Prevent Adobe Software from updating and activating. Make it think Creative Cloud isn't reachable on the installer.
 # May break certain features.
-# Use at your own discretion
+# Use at your own discretion.
+# 
+# ANY form of software piracy is not condoned! 
+# Do not use this list in conjunction with pirated software!
 # ===============================
 127.0.0.1 ccmdl.adobe.com
 127.0.0.1 swupmf.adobe.com
